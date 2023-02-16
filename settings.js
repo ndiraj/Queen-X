@@ -15,19 +15,19 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94712104818'] //ur owner number
+global.owner = ['94720416759'] //ur owner number
 global.ownername = "INDI ʙᴏᴛ" //ur owner name
 global.ytname = "KIYA" //ur yt chanel name
 global.socialm = "👸🏻INDI ＢＯＴ👸🏻" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "94712104818" //ur number
-global.premium = ['94712102818'] //ur premium number
+global.ownernomer = "94720416759" //ur number
+global.premium = ['94720416759'] //ur premium number
 global.botname = 'INDI ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LFjhrUNjogZBoanOSkGdEY" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/LFjhrUNjogZBoanOSkGdEY" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.linkz = https://chat.whatsapp.com/IK8FJVbDFhG9M9eixzlGHC"" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/IK8FJVbDFhG9M9eixzlGHC" //ur website to be displayed
+global.botscript = 'https://github.com/ndiraj/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
 global.packname = "   👸🏻INDI ＢＯＴ👸🏻" //ur sticker watermark packname
 global.author = "   👸🏻INDI ＢＯＴ👸🏻\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
